@@ -63,3 +63,12 @@ The part 2.2.1.3 maps to nsExtendConfigCommand — the command the extend runs.
 
 The trailing 6.109.121.110.97.109.101 is the string "myname" in length+ASCII.
 
+#Octa
+Character	ASCII
+m	109
+y	121
+n	110
+a	97
+m	109
+e	101
+
